@@ -8,3 +8,9 @@ for msg in m:
     sys.stdout.flush()
     time.sleep(0.06)
 print("")
+msg1 = random.choice(color)+"Mais informações em: https://github.com/winndev \n"
+for msg in msg1:
+sys.stdout.write(msg)
+    sys.stdout.flush()
+    time.sleep(0.06)
+print("")
