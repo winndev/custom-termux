@@ -3,18 +3,18 @@ echo
 echo "
    < ━━━━━━━━━ [★] Seja bem vindo THDB [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
-    echo " Quem come do fruto do conhecimento, sempre é expulso de algum paraíso " |lolcat
+    echo " Eu trabalho com melhoria... " |lolcat
 
 
 figlet    '    THBD' |lolcat
 
 echo "
-             We Do Not HaCk to impress
-                        We HaCk To Express
-   < ━━━━━━━━━━━ [★]  [★] ━━━━━━━━━━━━ > " |lolcat
+             Quem come do fruto do conhecimento
+                        sempre é expulso de algum paraíso
+   < ━━━━━━━━━━━ [★] winnhacking [★] ━━━━━━━━━━━━ > " |lolcat
 
 
-python /data/data/com.termux/files/usr/etc/wlc.py
+python /data/data/com.termux/files/usr/etc/t-c.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
         command_not_found_handle() {
                 /data/data/com.termux/files/usr/libexec/termux/command-not-found "$1"
