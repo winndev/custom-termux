@@ -6,7 +6,7 @@ echo
     echo " Eu trabalho com melhoria... " |lolcat
 
 echo "
-   < ━━━━━━━━━━━ [★] winnhacking [★] ━━━━━━━━━━━━ > "
+   < ━━━━━━━━━━━ [★] winnhacking [★] ━━━━━━━━━━━━ > " |lolcat
 
 echo "
              Quem come do fruto do conhecimento
@@ -14,10 +14,10 @@ echo "
 
    < ━━━━━━━━━━━ [★] winnhacking [★] ━━━━━━━━━━━━ > " |lolcat
 
-figlet -f cosmic -c -k '    THBD' |lolcat
+figlet -c -k '    THBD' |lolcat
 
 echo "
-    < ━━━━━━━━━━━ [★] winnhacking [★] ━━━━━━━━━━━━ > "
+    < ━━━━━━━━━━━ [★] winnhacking [★] ━━━━━━━━━━━━ > " |lolcat
 
 python /data/data/com.termux/files/usr/etc/t-c.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
