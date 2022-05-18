@@ -2,7 +2,7 @@ import os,sys,time,random
 print("")
 print("")
 color = ["\033[1;31m","\033[1;32m"]
-def menu(testeteste):
+var menu():
 m = random.choice(color)+"Bem vindo THBD! \n Para mais informações, insira '1' \n\n"
 for msg in m:
     sys.stdout.write(msg)
