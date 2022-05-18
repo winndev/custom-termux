@@ -1,8 +1,8 @@
 import os,sys,time,random
-def menu():
 print("")
 print("")
 color = ["\033[1;31m","\033[1;32m"]
+def menu():
 m = random.choice(color)+"Bem vindo THBD! \n Para mais informações, insira '1' \n\n"
 for msg in m:
     sys.stdout.write(msg)
