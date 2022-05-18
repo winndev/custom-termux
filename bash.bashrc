@@ -5,14 +5,19 @@ echo "
 echo
     echo " Eu trabalho com melhoria... " |lolcat
 
-
-figlet    '    THBD' |lolcat
+echo "
+   < ━━━━━━━━━━━ [★] winnhacking [★] ━━━━━━━━━━━━ > "
 
 echo "
              Quem come do fruto do conhecimento
                         sempre é expulso de algum paraíso
+
    < ━━━━━━━━━━━ [★] winnhacking [★] ━━━━━━━━━━━━ > " |lolcat
 
+figlet -f cosmic -c -k '    THBD' |lolcat
+
+echo "
+    < ━━━━━━━━━━━ [★] winnhacking [★] ━━━━━━━━━━━━ > "
 
 python /data/data/com.termux/files/usr/etc/t-c.py
 if [ -x /data/data/com.termux/files/usr/libexec/termux/command-not-found ]; then
