@@ -14,7 +14,7 @@ echo "
 
    < ━━━━━━━━━━━ [★] winnhacking [★] ━━━━━━━━━━━━ > " |lolcat
 
-figlet -c -k '    THBD' |lolcat
+figlet -k '    THBD' |lolcat
 
 echo "
     < ━━━━━━━━━━━ [★] winnhacking [★] ━━━━━━━━━━━━ > " |lolcat
