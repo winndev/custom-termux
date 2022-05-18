@@ -1,7 +1,7 @@
 clear
 echo
 echo "
-   < ━━━━━━━━━ [★] Seja bem vindo THDB [★] ━━━━━━━━━━━━ >  " |lolcat
+   < ━━━━━━━━━ [★] Seja bem vindo! [★] ━━━━━━━━━━━━ >  " |lolcat
 echo
     echo " Eu trabalho com melhoria... " |lolcat
 
